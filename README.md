@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jahir Rodriguez
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning machine learning, python, flask, html, css, preprocessor css, WTForms, sqlAlchemy ...
+- 🌱 I’m currently learning machine learning, python, flask, html, css, preprocessor css, WTForms, SQLAlchemy ...
 - 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me jarorid@gmail.com
 
